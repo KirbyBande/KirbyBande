@@ -4,7 +4,7 @@
 <h2>Contact Information</h2>
 Email: kirhby27@gmail.com <br>
 Location: Caloocan, Philippines<br>
-LinkedIn: <a href=https://www.linkedin.com/in/kirby-bande-046264294/><br>
+LinkedIn: <a href=https://www.linkedin.com/in/kirby-bande-046264294/>KirbyBande @LinkedIn</a><br>
 GitHub: <br>
 
 
