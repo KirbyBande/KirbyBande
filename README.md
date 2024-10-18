@@ -22,6 +22,9 @@ Tools & Platforms: Github <br>
 <h2>🗣️ Languages</h2>
 Java - Intermediate level <br>
 SQL - Intermediate level <br>
+
+<h2>Certifications</h2>
+SQL and Relational Databases 101, Cognitive Class, 2024
 <!---
 KirbyBande/KirbyBande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
