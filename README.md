@@ -1,8 +1,13 @@
 <h1>👋 Hi, I’m @KirbyBande</h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: He/Him 
+<b>2nd Year BS Computer Science Student @New Era University</b>
+
+<h2>Contact Information</h2>
+Email: kirhby27@gmail.com
+Location: Caloocan, Philippines
+LinkedIn: <a href=https://www.linkedin.com/in/kirby-bande-046264294/>
+GitHub: 
+
+
 
 <h2>Education</h2>
 <b>College Undergraduate</b>
