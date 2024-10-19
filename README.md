@@ -18,6 +18,7 @@ STI San Jose DelMonte Bulacan <br>
 Programming Languages: Java, SQL <br>
 Databases: IBM Cloud <br>
 Tools & Platforms: Github <br>
+Soft Skills: Critical Thinking, Problem Solving, and Managing skills<br>
 
 <h2>🗣️ Languages</h2>
 Java - Intermediate level <br>
