@@ -25,8 +25,8 @@ Java - Intermediate level <br>
 SQL - Intermediate level <br>
 
 <h2>📜 Certifications</h2>
-SQL and Relational Databases 101, Cognitive Class, 2024<br>
-<a href="https://bit.ly/3BZKO1n">View Certificate</a>
+<a href="https://bit.ly/3BZKO1n">SQL and Relational Databases 101, Cognitive Class, 2024</a>
+
 
 
 <!---
