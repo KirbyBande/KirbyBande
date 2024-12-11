@@ -26,7 +26,7 @@ SQL - Intermediate level <br>
 
 <h2>📜 Certifications</h2>
 <a href="https://bit.ly/3BZKO1n">SQL and Relational Databases 101, Cognitive Class, 2024</a><br>
-<a href="https://bit.ly/4ilvA7S">Oracle Cloud Infrastructure Data Foundations Associate 2024</a><br>
+<a href="https://bit.ly/3ZQDGyc">Oracle Cloud Infrastructure Foundations Associate 2024</a><br>
 <a href="https://bit.ly/4ilvA7S">Oracle Cloud Infrastructure Data Foundations Associate 2024</a><br>
 
 
